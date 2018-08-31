@@ -1,13 +1,13 @@
 import React, { Component } from "react";
-import Menu from "./components/Menu";
-import Content from "./components/Content";
+import Header from "./components/Header";
+import Intro from "./components/Intro";
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <Menu />
-        <Content />
+        <Header />
+        <Intro />
       </div>
     );
   }

@@ -1,0 +1,17 @@
+.intro-bg {
+    /* The image used */
+    background-image: url("./images/mac.jpg");
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 120%;
+    color: dimgray
+}
+
+.intro-subtitle {
+    min-height: 200px;
+}

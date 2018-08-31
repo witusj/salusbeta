@@ -1,4 +1,10 @@
 .App {
-  font-family: sans-serif;
+  color: white;
+  font-family: 'Roboto', sans-serif;
   text-align: center;
+}
+
+h1 {
+    font-size: 100px;
+    font-family: 'Quicksand', sans-serif;
 }
