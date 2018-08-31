@@ -1,2 +1,0 @@
-# salusbeta
-Created with CodeSandbox
