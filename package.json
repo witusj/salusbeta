@@ -1,11 +1,12 @@
 {
   "name": "new",
   "version": "1.0.0",
-  "description": "",
   "homepage": "https://witusj.github.io/salusbeta/",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^3.1.2",
     "gh-pages": "^1.2.0",
     "highcharts": "^6.1.1",
     "highcharts-react-official": "^1.4.0",
@@ -24,5 +25,15 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/witusj/salusbeta.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/witusj/salusbeta/issues"
+  },
+  "description": ""
 }

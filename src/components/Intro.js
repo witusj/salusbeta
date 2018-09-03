@@ -24,17 +24,8 @@ const Intro = () => {
          aan de wettelijke sancties. De onderliggende Nederlandse wetgeving is
          de Sanctiewet (SW).
          </p>
-         <br/>
-         <h5>Sanctielanden</h5>
-         <p>Afghanistan, Wit-Rusland , Birma/Myanmar,
-         Centraal-Afrikaanse Republiek, Cuba, Dem. Republic of Congo,
-         Egypte, Eritrea, Guinee (Conakry), Guinee Bissau, Irak, Iran,
-         Ivoorkust, Libanon, Liberia, Libië, Noord Korea, Oekraïne,
-         Russische Federatie, Soedan, Somalië, Syrië, Tunesië, Zimbabwe,
-         Zuid-Soedan
-         </p>
+         
        </div>
-
       </div>
 
     </div>
